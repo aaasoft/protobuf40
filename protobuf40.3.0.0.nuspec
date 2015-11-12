@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>protobuf40</id>
+        <version>3.0.0</version>
+        <title>Google Protobuf for .NET 4.0</title>
+        <authors>scbeta</authors>
+        <projectUrl>https://github.com/aaasoft/protobuf40</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Google Protobuf,for .NET 4.0</description>
+    </metadata>
+    <files>
+        <file src="Google.Protobuf\bin\Release\Google.Protobuf.dll" target="lib\net40\Google.Protobuf.dll" />
+    </files>
+</package>
